@@ -17,4 +17,4 @@ build:
 ```
 
 Which would equal to the following when executing the default target by typing `make` or running the `make help` target directly.  
-![Executed Makefile Help Target Example](https://github.com/padrio/maketpl/raw/master/.github/example.jpg "Executed Makefile Help Target Example")
+![Executed Makefile Help Target Example](https://github.com/padrio/maketpl/raw/master/.github/example.png "Executed Makefile Help Target Example")
